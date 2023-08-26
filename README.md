@@ -150,10 +150,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+### OFF:
+![off](https://github.com/NaveenM-IOT0804/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/117974950/25c9b1b3-931b-447b-b1c9-5945d9566b88)
+### ON:
+![on](https://github.com/NaveenM-IOT0804/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/117974950/f7b51ed4-a5e1-4ca2-a46f-73d8312bc807)
 
-![WhatsApp Image 2023-08-12 at 16 26 31](https://github.com/NaveenM-IOT0804/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/117974950/3c564c2b-3666-40b8-9e40-42e0187b43ff)
-
- ![WhatsApp Image 2023-08-12 at 16 26 30](https://github.com/NaveenM-IOT0804/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/117974950/8dffcbdb-75a9-48ae-a115-93aae36bc6a2)
 
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
